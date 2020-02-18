@@ -1,4 +1,4 @@
-num = int(input('Пожалуйста, ведите сумму цифр:   '))
+num = int(input('Пожалуйста, введите сумму цифр:   '))
 a = [str(0)*i for i in range(999)]
 
 for i in range(1,len(a)):
